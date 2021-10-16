@@ -1,0 +1,193 @@
+{
+  "TankList": [
+    {
+      "country": "독일",
+      "name": "Tiger E",
+      "type": "heavyTank",
+      "imgUrl": "http://img.bemil.chosun.com/site/data/img_dir/2019/01/03/2019010300839_0.jpg",
+      "maxSpeed": "45 km/h",
+      "introduce": "Panzerkampfwagen VI Ausführung H (6호 전차 H형)이었다가 1943년 3월 Panzerkampfwagen VI Ausführung E (6호 전차 E형)으로 재명명됐다. 하지만 사람들은 정식 명칭보단 역시 Tiger I, 티거라는 별칭으로 불렀고 1944년 2월 히틀러의 명령으로 정식명칭에 Tiger가 들어가서 Panzerkampfwagen Tiger Ausf. E가 됐다.",
+      "reloadingTime": "10.8s",
+      "bullet": ["PzGr.", "PzGr.39", "PzGr.40", "SprGr.L/4.5", "Gr.39 HL"]
+    },
+    {
+      "country": "독일",
+      "name": "Tiger 2",
+      "type": "heavyTank",
+      "imgUrl": "http://img.bemil.chosun.com/site/data/img_dir/2015/01/07/2015010701338_0.jpg",
+      "maxSpeed": "42 km/h",
+      "introduce": "Panzerkampfwagen VI Ausf. B Tiger II, 제2차 세계 대전 후반에 등장한 독일군의 중전차이다. 티거 2라는 본명보다도 쾨니히스티거(Königstiger) 또는 킹타이거라는 별명으로 더 유명하다. 아돌프 히틀러의 1944년 2월 명령으로 티거 I과 함께 티거 II는 독일 병기 중 별명이 공인받은 몇 안 되는 사례 중 하나이다.",
+      "reloadingTime": "11s",
+      "bullet": ["PzGr. 39/43", "PzGr. 40/43", "Gr. 39 HL", "SprGr.43"]
+    },
+    {
+      "country": "독일",
+      "name": "Maus",
+      "type": "heavyTank",
+      "imgUrl": "http://img.bemil.chosun.com/site/data/img_dir/2020/02/17/2020021702873_16.jpg",
+      "maxSpeed": "21 km/h",
+      "introduce": "제2차 세계 대전 당시 나치 독일에 의해 개발되었던 초중전차이다. 정식 명칭은 'Panzerkampfwagen Maus'8호 전차라는 이름으로 잘 알려져 있다. 마우스는 현재까지 제작된 전차 중 가장 무거운 전차이다.",
+      "reloadingTime": "23.6s",
+      "bullet": ["PzGr.", "SprGr", "PZGr. 43", "12.8/8.8 PzGr.TS"]
+    },
+    {
+      "country": "독일",
+      "name": "Panther G",
+      "type": "mediumTank",
+      "imgUrl": "http://img.bemil.chosun.com/site/data/img_dir/2019/09/17/2019091700998_0.jpg",
+      "maxSpeed": "51 km/h",
+      "introduce": "제2차 세계 대전 당시 독일군이 개발, 운용한 중형전차이다. 어원은 표범이다. 정식 명칭은 Panzerkampfwagen V „Panther“로, 5호 전차라는 의미이다.",
+      "reloadingTime": "9.6s",
+      "bullet": ["PzGr. 39/42", "PzGr. 40/42", "SprGr.42"]
+    },
+    {
+      "country": "독일",
+      "name": "Leopard 1",
+      "type": "mediumTank",
+      "imgUrl": "http://thumbnail.egloos.net/600x0/http://pds13.egloos.com/pds/200811/22/63/e0055563_4927e4f9981c8.jpg",
+      "maxSpeed": "72 km/h",
+      "introduce": "Der Leopard 1 (eins). 독일 연방군이 운용했던 주력 전차이다. 냉전 중 NATO 지상전력의 일익을 담당하였고 현재까지도 여러국가에서 운용되는 나름 성공한 전차이다. 이름의 유래는 VK 16.02 레오파르트 경전차.",
+      "reloadingTime": "8.7s",
+      "bullet": ["DM12", "DM13", "DM502"]
+    },
+
+    {
+      "country": "소련",
+      "name": "T-34",
+      "type": "mediumTank",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Char_T-34.jpg/1200px-Char_T-34.jpg",
+      "maxSpeed": "54 km/h",
+      "introduce": "소련과 러시아의 1세대 전차[3]를 대표하는 전차이자 제2차 세계대전 시기 소련에서 생산되어 기갑부대의 주력으로 운용된 중형전차다. 소련이 만든 걸작 전차로 알려진다.",
+      "reloadingTime": "9.3s",
+      "bullet": ["BR-350A", "BR-350B", "BR-350SP", "BR-350P"]
+    },
+    {
+      "country": "소련",
+      "name": "T-55A",
+      "type": "mediumTank",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6F5lLwkS08SBG92sr-VXvCHOZh0ZLseTGFA6KDY34wn-k6TIOW4bQdS88_Z-qcACC7zo&usqp=CAU",
+      "maxSpeed": "56 km/h",
+      "introduce": "소련에서만 3만대 가량이 양산됐으며, 70개국이 넘는 운용국가를 거머줜 동구권 베스트셀러 전차.이런 저런 안습전설이 있는 전차인데, 때로 T-54A의 열화 카피판인 59식 전차까지 T-55로 집계되곤 해서 더더욱 약체라는 인식이 많다.",
+      "reloadingTime": "11.1s",
+      "bullet": ["3BM-8", "3D3", "BR-412D"]
+    },
+    {
+      "country": "소련",
+      "name": "T-72B3",
+      "type": "mediumTank",
+      "imgUrl": "http://img.bemil.chosun.com/nbrd/data/10044/upfile/201409/20140916142409.jpg",
+      "maxSpeed": "66 km/h",
+      "introduce": "소련이 1973년에 제식화한 주력 전차. 소련군용으로만 근 10,000여대 가까이 생산된, 공산권 기갑부대의 주축이다. 또한 중동·인도 등지로 널리 수출되어 제3세계 전차 세력의 왕초로 군림했다",
+      "reloadingTime": "7.1s",
+      "bullet": ["3BK18M", "3OF26", "3BM22", "9M119M1", "3BM42"]
+    },
+    {
+      "country": "소련",
+      "name": "T-8OU",
+      "type": "mediumTank",
+      "imgUrl": "https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistoryfile%2Ffs6%2F17_33_29_33_blog142604_attach_0_42.jpg%3Foriginal",
+      "maxSpeed": "78 km/h",
+      "introduce": "소련 최초로 가스터빈엔진을 실용화한 주력전차로 1976년 채택 이후 현재까지도 개량되어 가며 40년 가까이 러시아를 비롯한 일부 국가에서 운용되고 있다. 뛰어난 성능으로 좋은 평가를 받았지만 소련의 붕괴로 장기 생산되지 못한 비운의 전차이기도 하다.",
+      "reloadingTime": "6.5s",
+      "bullet": ["3BK18M", "3OF26", "3BM22", "9M119", "3BM42"]
+    },
+
+    {
+      "country": "미국",
+      "name": "M3리",
+      "type": "mediumTank",
+      "imgUrl": "http://img.bemil.chosun.com/site/data/img_dir/2019/04/26/2019042602358_0.jpg",
+      "maxSpeed": "43 km/h",
+      "introduce": "M3 리(Lee) 중형전차는 제2차 세계 대전 중 사용된 미국의 중형전차이다. 미군의 공식 명칭은 Medium Tank, M3",
+      "reloadingTime": "3.7s",
+      "bullet": ["M74B1", "M51B1/B2"]
+    },
+    {
+      "country": "미국",
+      "name": "M4a3e2",
+      "type": "heavyTank",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/M4A3E2_Sherman_Jumbo_75mm_gun.jpg",
+      "maxSpeed": "38 km/h",
+      "introduce": "M3 리는 차체에 주포를 탑재했기에 포탑에 탑재한 주포와 달리 대응력이 떨어진다는 결점이 있었고, 이에 미 군부는 포탑에 75mm 주포를 얹은 제대로 된 후계 전차로 M4 셔먼을 개발하게 된다. 하지만 M2 전차부터 이어져온 차체를 유용하여 디자인했기 때문에 생산시설을 최대한 활용할 수 있어서 생산에서는 유리했지만 구식차체의 다양한 단점을 가지고 있었다.",
+      "reloadingTime": "6.5s",
+      "bullet": ["M72", "M48", "M61", "T45", "M89"]
+    },
+    {
+      "country": "미국",
+      "name": "M26퍼싱",
+      "type": "mediumTank",
+      "imgUrl": "https://img.jjang0u.com/data2/newjjang/280/2007Jan/116844424088015.jpg",
+      "maxSpeed": "53 km/h",
+      "introduce": "미합중국 육군이 제 2차 세계대전 당시 운용한 중전차/중형전차이자 세계 최초로 파워팩을 장착한 실전배치 전차. 명칭은 제1차 세계 대전 당시 미 유럽 원정군 총사령관인 존 조지프 퍼싱의 이름에서 따왔다.",
+      "reloadingTime": "9.7s",
+      "bullet": ["T33", "M82", "M304", "M71", "M313"]
+    },
+    {
+      "country": "미국",
+      "name": "M1에이브람스",
+      "type": "mediumTank",
+      "imgUrl": "https://obj-sg.thewiki.kr/data/696d6167655f323031385f30365f31322d30305f30395f33375f3239305f3550592e6a7067.jpg",
+      "maxSpeed": "80 km/h",
+      "introduce": "미 육군 및 미 해병대의 주력 전차. M1 에이브람스(M1 Abrams) 전차는 1979년 크라이슬러 방위사업부(Chrysler Defence)가 설계하여 1980년부터 생산하였으며 1981년 미 육군에 처음 실전 배치되었고 현재 제너럴 다이내믹스 육상사업부(General Dynamics Land Systems, GDLS)가 생산하고 있다",
+      "reloadingTime": "6.5s",
+      "bullet": ["M456A2", "M393A2", "M735", "M416", "M774"]
+    },
+    {
+      "country": "미국",
+      "name": "M48A1",
+      "type": "mediumTank",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Kampfpanzer_M_48_A2_C.JPG",
+      "maxSpeed": "50 km/h",
+      "introduce": "미국에서 만든 주력 전차로 1세대 전차에 해당되며 차세대 M4 셔먼이나 서방제 T-55으로 불릴 만큼 많이 생산되어 우방국들에게 뿌려졌다. 대한민국 국군 역시 M48 패튼을 운용 중이다",
+      "reloadingTime": "9.7s",
+      "bullet": ["M332", "T142E3", "M82"]
+    },
+
+    {
+      "country": "영국",
+      "name": "처칠7",
+      "type": "heavyTank",
+      "imgUrl": "http://fetch.rigvedawiki.net/f/wiki.php?action=fetch&url=http://www.flamesofwar.com/Portals/0/all_images/weapons/Churchill-VII-Croc-01.jpg",
+      "maxSpeed": "21.7 km/h",
+      "introduce": "제2차 세계 대전 중 사용된 영국군의 중(重)보병전차.939년 영국은 마틸다II의 후계차량이 될 신형 중(重)보병전차를 개발하고 있었으나, A20으로 명명된 이 시안은 마틸다를 더 발전시켜서 2파운더 혹은 3인치 유탄포를 장착하고 정, 측면 60mm 장갑을 가지며 너필드 리버티 엔진을 장착할려고 했다. 하지만 1차 세계 대전의 참호 돌파용 전차를 현대화 시킨 것이라 시대에 뒤쳐진 것이었고, 프랑스 전역과 됭케르크 철수작전의 경험으로 A20의 전면 수정은 불가피해졌다. 따라서 A20의 개량형인 A22 전차가 100mm이상의 장갑과 20km이상의 속력, 2파운드포 또는 그 이상의 화포 장비 가능이라는 요구사항으로 계획되었으며,1941년 6월 복스홀 자동차(Vauxhall Motor Limited)에서 시제품이 완성되었다.",
+      "reloadingTime": "6.5s",
+      "bullet": ["M72", "M61", "M48", "M89"]
+    },
+    {
+      "country": "영국",
+      "name": "마틸타3",
+      "type": "heavyTank",
+      "imgUrl": "https://obj-sg.thewiki.kr/data/65787465726e616c2f75706c6f61642e77696b696d656469612e6f72672f4d6174696c64612d6c617472756e2d312e6a7067.jpg",
+      "maxSpeed": "25.5 km/h",
+      "introduce": "제2차 세계 대전 초반 사용된 영국군의 보병전차. 1920년대 이후 영국 육군은 전차의 운용에 대한 의견이 갈라져 결국 보병전차와 순항전차의 이원 체제로 가게 되었지만, 보병전차의 운용에 대한 의견 역시 통일되지 않아 최초의 보병전차는 두 가지의 다른 길로 가게 된다.",
+      "reloadingTime": "3.6s",
+      "bullet": [
+        "Mk.1 AP/T",
+        "Mk.2",
+        "Mk.1 APCBC/T 포탄",
+        "Mk.1 APHV/T",
+        "Mk.1 AP/T 포탄"
+      ]
+    },
+    {
+      "country": "영국",
+      "name": "센츄리온 mk.10",
+      "type": "mediumTank",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGTQzqJk2dGvCSKtpVsNVHdPO3mTuCjt9WFA&usqp=CAU",
+      "maxSpeed": "39 km/h",
+      "introduce": "1943년 개발이 시작되어 1945년 종전 직전 완성되어 1946년부터 제식 채용된 영국군 최후의 순항전차이자 1세대 주력 전차. 이름은 로마 제국의 백인대장에서 따왔다.",
+      "reloadingTime": "8.7s",
+      "bullet": ["L28A1", "L35"]
+    },
+    {
+      "country": "영국",
+      "name": "챌린저 2",
+      "type": "mediumTank",
+      "imgUrl": "https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile25.uf.tistory.com%2Fimage%2F241BC3475779671630292B",
+      "maxSpeed": "66 km/h",
+      "introduce": "영국군과 오만군에서 운용중인 주력 전차. 1987년 영국 국방부에서 차세대 전차로 미국의 M1전차, 프랑스의 르끌레르, 독일의 레오파르트2 그리고 영국의 챌린저 2 중 하나를 선택할려했다.실무진은 당시 기준으로 공격, 방어, 기동성 그리고 동맹국과의 탄약 호환 등 모든 것이 잘 맞아 떨어진 레오파르트 2를 선정해 보고했다. 하지만 업체의 로비와 전차종주국이라는 자존심이 걸려있었기에 결국 챌린저 2로 선택이 되었다.",
+      "reloadingTime": "6.5s",
+      "bullet": ["L23A1", "L31A7", "L26", "L34"]
+    }
+  ]
+}
